@@ -1,4 +1,4 @@
-package org.example.list;
+package org.example.list.set;
 
 import java.util.EnumSet;
 import java.util.Iterator;
